@@ -1,1 +1,1 @@
-# numpy-pandas-visualization-exercises
+This repository has been created to hold all of my Codeup numpy, pandas, and visualization exercises.
